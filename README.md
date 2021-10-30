@@ -8,4 +8,9 @@
 Here you can find Leatrix addons for World of Warcraft.
 </p>
   
-  <h3 align='center'><a href="https://www.leatrix.com">Leatrix.com</a></p>
+<br>
+<p align="center">
+  <a href="https://www.leatrix.com">Leatrix.com</a> | 
+   <a href="https://www.curseforge.com/members/leatrix/projects">CurseForge.com</a> | <a href="https://www.patreon.com/leatrix">Patreon.com</a></p>
+   </p>
+    
